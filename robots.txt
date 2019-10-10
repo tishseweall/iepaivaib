@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gukayauti.emptyattribute.net/sitemap.xml
